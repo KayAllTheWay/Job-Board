@@ -41,7 +41,9 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
-
+  gem 'simple_form', '~> 5.0', '>= 5.0.1' 
+  gem 'haml', '~> 5.1', '>= 5.1.2'
+  gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1' 
 group :test do
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '>= 2.15'
