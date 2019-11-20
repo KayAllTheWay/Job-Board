@@ -1,1 +1,7 @@
-<h1>This is our index page</h1>
+- @jobs.each do |job|
+  %h2= link_to job.title, job
+  %p= job.school
+  %p= job.salary
+  %p= job.description
+
+= link_to "New Job", new_job_path
