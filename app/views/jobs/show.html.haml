@@ -1,0 +1,12 @@
+%h1= @job.title
+%p= @job.school
+%p= @job.salary
+%p= @job.description
+
+= link_to "Home", root_path, class: "btn btn-sm btn-default"
+
+= link_to "New Job", new_job_path, class: "btn btn-sm btn-default"
+
+= link_to "Edit", edit_job_path(@job), class: "btn btn-sm btn-default"
+
+= link_to "Delete", job_path(@job), method: :delete, data: { confirm: "Are you sure you want to delete this job posting?" }, class: "btn btn-sm btn-default"
