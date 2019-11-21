@@ -1,12 +1,12 @@
 JOB BOARD APPLICATION
 
 This is a job board application created with Ruby 2.6.3 and Ruby on Rails 6.0.1
-You can create a job posting and look through current job postings. 
+You can create a job posting, delete, edit and look through a list of job postings you create. 
 
 Launching site 
 
 You can view the application in two ways, 
-  (i) you can visit view a hosting by Heroku by clicking this URL 
+  (i) View the application hosted by Heroku by clicking this URL: https://job-board2019.herokuapp.com/
                (ii) You can launch the application locally by downloading the file from Github
   
   To launch the app through your local server, go to the 'job_board' repo and click the green 'clone or download' button. 
