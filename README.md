@@ -6,7 +6,7 @@ You can create a job post, delete, edit and look through the list of job posting
 Launching The Site 
 
 You can view the application in two ways, 
-  (i) View the application hosted by Heroku by clicking this URL: https://job-board2019.herokuapp.com/
+  (i) View the application hosted by Heroku by clicking this URL: https://job-board2019.herokuapp.com/ or;
                (ii) You can launch the application locally by downloading the file from Github
   
   To launch the app through your local server, go to the 'job_board' repo and click the green 'clone or download' button on the right hand corner. 
