@@ -60,4 +60,4 @@ Add the necessary information in the form and click 'create job'
 Your job will appear,by clicking 'home' you will be taken to the main page that will list all existing job postings. By clicking on the title of any job post you can view all the information about the role.
 
 
-To find out how I planned working on this app, visit my Trello board https://trello.com/c/yxXGe9S1/4-jobs-app
+To find out how I planned working on this app, visit my Trello board https://trello.com/b/izz3rnz5/job-board-plan-with-rails
